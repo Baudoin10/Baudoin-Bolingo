@@ -91,7 +91,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baudoinvic&show_icons=true&locale=en&theme=react" alt="Baudoin's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Baudoin-10c&show_icons=true&locale=en&theme=react" alt="Baudoin's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baudoinvic&theme=react" alt="Baudoin's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baudoin-10&theme=react" alt="Baudoin's GitHub streak" />
 </p>

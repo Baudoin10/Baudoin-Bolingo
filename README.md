@@ -32,8 +32,11 @@
 ## 📈 GitHub Stats
 
 <div align="left">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baudoin-10&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Baudoin-10&theme=dark)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Baudoin-10&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Baudoin-10&theme=dark" alt="GitHub Streak" />
+
 </div>
 
 ## 💬 Ask Me About

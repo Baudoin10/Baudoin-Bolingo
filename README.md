@@ -25,8 +25,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baudoinvic&show_icons=true&theme=react"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baudoinvic&theme=react"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Baudoin-10&show_icons=true&locale=en)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Baudoin-10)
 </p>
 
 ---
@@ -91,7 +91,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baudoin-10c&show_icons=true&locale=en&theme=react" alt="Baudoin's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baudoin-10&theme=react" alt="Baudoin's GitHub streak" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Baudoin-10&show_icons=true&locale=en)
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Baudoin-10)
 </p>

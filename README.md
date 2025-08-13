@@ -64,7 +64,7 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <i>⚡ Fun Fact: I love building UIs that make people's lives easier!</i>
 </div>
 

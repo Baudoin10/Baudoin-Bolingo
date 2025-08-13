@@ -43,30 +43,11 @@
 - Modern Web & Mobile Development
 - Blockchain & Web3 Technologies
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/baudoinbolingo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://fb.com/baudoinbolingo">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/baudoin_10">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/baudoin">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-</p>
-
 ---
 
-<div align="center">
-  <i>⚡ Fun Fact: I love building UIs that make people's lives easier!</i>
-</div>
-
 ## 🌐 Connect with Me
+
+---
 
 <p align="left">
   <a href="https://linkedin.com/in/baudoinbolingo" target="_blank">
@@ -82,6 +63,10 @@
     <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
 </p>
+
+<div align="center">
+  <i>⚡ Fun Fact: I love building UIs that make people's lives easier!</i>
+</div>
 
 ---
 

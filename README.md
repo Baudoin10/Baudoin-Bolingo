@@ -1,47 +1,70 @@
-<h1 align="center">Hi 👋, I'm Baudoin Bolingo</h1>
-<h3 align="center">🚀 Passionate Software Developer | Web3 Enthusiast</h3>
+# Hi 👋, I'm Baudoin Bolingo
 
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baudoinvic&label=Profile%20views&color=0e75b6&style=flat" alt="baudoinvic" /> </p>
+<div align="center">
+  <h3>🚀 Passionate Software Developer | Web3 Enthusiast</h3>
+  
+  <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+  
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=baudoinvic&label=Profile%20views&color=0e75b6&style=flat" alt="baudoinvic" /> 
+  </p>
+</div>
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently building amazing things at **WiredIn**
+- 🌱 Currently building amazing things at **WiredIn**
 - 🛠️ Focused on **React.js, React Native, and JavaScript**
 - 💡 Always learning and exploring new technologies
-- 📫 Reach me at: [baudoinvicbolingo@gmail.com](mailto:baudoinvicbolingo@gmail.com)
-- 🌍 My online portfolio: [update-portfolio-six.vercel.app](https://update-portfolio-six.vercel.app/)
+- 📫 Reach me at: **baudoinvicbolingo@gmail.com**
+- 🌍 Portfolio: **[update-portfolio-six.vercel.app](https://update-portfolio-six.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+</p>
 
 ## 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baudoin-10&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baudoin-10&theme=dark" alt="GitHub Streak" />
+</div>
+
+## 💬 Ask Me About
+
+- React / React Native Development
+- JavaScript (ES6+) & TypeScript  
+- Modern Web & Mobile Development
+- Blockchain & Web3 Technologies
+
+## 🌐 Connect with Me
+
 <p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Baudoin-10&show_icons=true&locale=en)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Baudoin-10)
+  <a href="https://linkedin.com/in/baudoinbolingo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://fb.com/baudoinbolingo">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/baudoin_10">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.hackerrank.com/baudoin">
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
 </p>
 
 ---
 
-## 💬 Ask Me About
-
-- React / React Native
-- JavaScript (ES6+)
-- Modern Web & Mobile Development
-- Blockchain
-- Web3
-
----
-
-> ⚡ **Fun Fact:** I love building UIs that make people's lives easier!
+<div align="center">
+  <i>⚡ Fun Fact: I love building UIs that make people's lives easier!</i>
+</div>
 
 ## 🌐 Connect with Me
 

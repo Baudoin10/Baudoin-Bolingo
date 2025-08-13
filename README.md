@@ -13,6 +13,42 @@
 - 📫 Reach me at: [baudoinvicbolingo@gmail.com](mailto:baudoinvicbolingo@gmail.com)
 - 🌍 My online portfolio: [update-portfolio-six.vercel.app](https://update-portfolio-six.vercel.app/)
 
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Portfolio-green?style=flat-square)](https://update-portfolio-six.vercel.app/)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baudoinvic&show_icons=true&theme=react"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baudoinvic&theme=react"/>
+</p>
+
+---
+
+## 💬 Ask Me About
+
+- React / React Native
+- JavaScript (ES6+)
+- Modern Web & Mobile Development
+
+---
+
+> ⚡ **Fun Fact:** I love building UIs that make people's lives easier!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/baudoin bolingo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baudoin bolingo" height="30" width="40" /></a>
